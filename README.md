@@ -7,3 +7,5 @@ Source: https://stadler49.wixsite.com/kfz-burda (reviewed 11 October 2026). Serv
 Phone/email links only, no fake enquiry submission. No tracking, remote fonts, embeds or browser storage. Noindex. Legal pages describe the independent preview; official business details and image licensing require confirmation before replacing the business website.
 
 Deploy as static site on Vercel; no build or dependencies.
+
+Updated: owner profile classic Mercedes and team photos (October 2018), exterior by Jürgen Christian G. (April 2017). These are historic business profile images, not presented as recent photographs. Responsive SVG wordmark replaces the hidden mobile span.
